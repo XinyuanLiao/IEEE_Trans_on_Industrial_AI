@@ -31,7 +31,7 @@ Latex模板下载[地址](https://template-selector.ieee.org/secure/templateSele
 电力电子领域、工业智能顶刊，2023年影响因子6.7，中科院一区，JCR Q1
 
 ### 投稿要求
-* 
+* [查询地址](https://s3-us-west-2.amazonaws.com/clarivate-scholarone-prod-us-west-2-s1m-public/wwwRoot/prod1/societyimages/tpel-ieee/2019%20Guidelines%20for%20Manuscript%20Submission%20to%20IEEE%20TPEL.pdf)
 * [投稿地址](https://mc.manuscriptcentral.com/tpel-ieee/)
 
 ## 期刊缩写
