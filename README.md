@@ -23,8 +23,9 @@
 * 初稿手稿应不超过8页
 * 参考文献不应超过30，且作者自引不得多于两篇
 * 参考文献格式应参考IEEE缩写指南
-* * [投稿地址](https://mc.manuscriptcentral.com/tie-ieee)
+* [投稿地址](https://mc.manuscriptcentral.com/tie-ieee)
 
 # 期刊缩写
-[The University of British Columbia](https://woodward.library.ubc.ca/woodward/research-help/journal-abbreviations/)
+* [The University of British Columbia](https://woodward.library.ubc.ca/woodward/research-help/journal-abbreviations/)
+* IEEE Reference Guide
 
