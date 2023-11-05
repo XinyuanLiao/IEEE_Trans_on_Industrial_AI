@@ -1,4 +1,5 @@
 # 工业智能，电力电子等领域期刊
+Latex模板下载[地址](https://template-selector.ieee.org/secure/templateSelector/publicationType)
 ## [IEEE Transactions on Industrial Informatics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424) 简称TII
 
 ### 简介
@@ -30,7 +31,8 @@
 电力电子领域、工业智能顶刊，2023年影响因子6.7，中科院一区，JCR Q1
 
 ### 投稿要求
-
+* 
+* [投稿地址](https://mc.manuscriptcentral.com/tpel-ieee/)
 
 ## 期刊缩写
 * [The University of British Columbia](https://woodward.library.ubc.ca/woodward/research-help/journal-abbreviations/)
