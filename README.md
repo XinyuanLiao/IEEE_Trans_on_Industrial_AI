@@ -25,5 +25,5 @@
 
 ## 期刊缩写
 * [The University of British Columbia](https://woodward.library.ubc.ca/woodward/research-help/journal-abbreviations/)
-* IEEE Reference Guide
+* [IEEE Reference Guide](https://github.com/XinyuanLiao/Journals_in_Industrial_AI/blob/main/IEEE-Reference-Guide.pdf)
 
