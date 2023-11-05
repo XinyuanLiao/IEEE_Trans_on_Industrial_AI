@@ -1,5 +1,5 @@
 # 工业智能，电力电子等领域期刊
-## [IEEE Transactions on Industrial Informatics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424)
+## [IEEE Transactions on Industrial Informatics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424) 简称TII
 
 ### 简介
 计算机领域、控制领域、工业智能顶刊，2023年影响因子12.3，中科院一区，JCR Q1，中国计算机协会推荐CCF-C类期刊
@@ -14,7 +14,7 @@
 
 
 
-## [IEEE Transactions on Industrial Electronics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=41)
+## [IEEE Transactions on Industrial Electronics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=41) 简称TIE
 
 ### 简介
 计算机领域、控制领域、工业智能顶刊，2023年影响因子7.7，中科院一区，JCR Q1
@@ -24,6 +24,13 @@
 * 单盲审稿
 * 初稿手稿不超过8页，最多超出一栏
 * [投稿地址](https://mc.manuscriptcentral.com/tie-ieee)
+
+## [IEEE Transactions on Power Electronics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=63) 简称TPEL
+### 简介
+电力电子领域、工业智能顶刊，2023年影响因子6.7，中科院一区，JCR Q1
+
+### 投稿要求
+
 
 ## 期刊缩写
 * [The University of British Columbia](https://woodward.library.ubc.ca/woodward/research-help/journal-abbreviations/)
