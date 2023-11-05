@@ -21,6 +21,8 @@
 
 ### 投稿要求
 * [查询地址](https://www.ieee-ies.org/images/files/tie/resources/TRANS-JOUR.pdf?v=202103)
+* 单盲审稿
+* 初稿手稿不超过8页，最多超出一栏
 * [投稿地址](https://mc.manuscriptcentral.com/tie-ieee)
 
 ## 期刊缩写
