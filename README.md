@@ -30,9 +30,20 @@ Latex模板下载[地址](https://template-selector.ieee.org/secure/templateSele
 ### 简介
 电力电子领域、工业智能顶刊，2023年影响因子6.7，中科院一区，JCR Q1
 
+
 ### 投稿要求
 * [查询地址](https://s3-us-west-2.amazonaws.com/clarivate-scholarone-prod-us-west-2-s1m-public/wwwRoot/prod1/societyimages/tpel-ieee/2019%20Guidelines%20for%20Manuscript%20Submission%20to%20IEEE%20TPEL.pdf)
 * [投稿地址](https://mc.manuscriptcentral.com/tpel-ieee/)
+
+## [Computers in Industry](https://www.sciencedirect.com/journal/computers-in-industry)
+### 简介
+工程技术-计算机领域顶刊，2023年影响因子10.0，中科院一区，JCR Q1，支持OA（需要$4010）
+### Scope
+* 展示信息和通信技术在工业中使用的新趋势和选择;
+* 在工业计算机应用的广泛领域中链接或整合不同的技术领域;
+* 连接或整合ICT在工业中的不同应用领域。
+### 投稿要求
+* [投稿地址](https://www2.cloud.editorialmanager.com/comind/default2.aspx)
 
 ## 期刊缩写
 * [The University of British Columbia](https://woodward.library.ubc.ca/woodward/research-help/journal-abbreviations/)
