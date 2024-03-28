@@ -44,6 +44,7 @@ IEEE Transactions on Power Electronics涵盖了在电力电子领域工作的工
 ### 投稿要求
 * [查询地址](https://s3-us-west-2.amazonaws.com/clarivate-scholarone-prod-us-west-2-s1m-public/wwwRoot/prod1/societyimages/tpel-ieee/2019%20Guidelines%20for%20Manuscript%20Submission%20to%20IEEE%20TPEL.pdf)
 * 没有特殊要求，引用缩写
+* 初稿不包括作者简历
 * [投稿地址](https://mc.manuscriptcentral.com/tpel-ieee/)
 
 ## 4.[IEEE Transactions on Intelligent Vehicles](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857) 简称TIV
@@ -54,6 +55,17 @@ IEEE Transactions on Intelligent Vehicles（T-IV）发表同行评审文章，�
 ### 投稿要求
 * 没有特殊要求，引用缩写
 * [投稿地址](https://mc.manuscriptcentral.com/t-iv)
+
+## 4.[IEEE Transactions on Transportation Electrification](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6687316) 简称TTE
+### 简介
+专注于与所有类型的电气化车辆（包括公路，越野，非公路和轨道车辆，飞机和船舶）的功率和能量转换，推进和驱动相关的组件，子系统，系统，标准和电网接口技术。
+
+2024年影响因子7.0，中科院一区，JCR Q1
+### 投稿要求
+* 没有特殊要求，引用缩写
+* 初稿不包括作者简历
+* 超过8页，每页收162$的版面费
+* [投稿地址](https://mc.manuscriptcentral.com/tte-ieee)
 
 ## 期刊缩写
 * [The University of British Columbia](https://woodward.library.ubc.ca/woodward/research-help/journal-abbreviations/)
